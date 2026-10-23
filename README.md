@@ -11,7 +11,7 @@ Responsive Civic Design: Minimalist, accessible slate/zinc UI supporting desktop
 
 Tech Stack
 
-Frontend: Next.js 14 (App Router), React 18, TypeScript 5.5
+Frontend: Next.js 14 , React Native with Expo, TypeScript 5.5, Gluestack UI
 
 Backend & API: Next.js Serverless Routes, Zod Validation, Gemini API
 
