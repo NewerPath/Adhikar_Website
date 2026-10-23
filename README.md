@@ -9,7 +9,8 @@ Lightweight & High-Performance: Pure modular CSS styling with zero heavy framewo
 
 Responsive Civic Design: Minimalist, accessible slate/zinc UI supporting desktop and touch-first mobile viewports.
 
-Tech Stack Summary (To paste directly into the README)
+Tech Stack
+
 Frontend: Next.js 14 (App Router), React 18, TypeScript 5.5
 
 Backend & API: Next.js Serverless Routes, Zod Validation, Gemini/OpenRouter AI
