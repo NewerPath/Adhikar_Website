@@ -13,10 +13,10 @@ Tech Stack
 
 Frontend: Next.js 14 (App Router), React 18, TypeScript 5.5
 
-Backend & API: Next.js Serverless Routes, Zod Validation, Gemini/OpenRouter AI
+Backend & API: Next.js Serverless Routes, Zod Validation, Gemini API
 
 Database & Auth: Supabase (@supabase/supabase-js)
 
-Styling: Custom Modular CSS Architecture
+Styling: Gluestack UI,Custom Modular CSS Architecture
 
 Deployment: Netlify Edge Platform
